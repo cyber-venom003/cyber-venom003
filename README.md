@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api/?username=cyber-venom003&show_icons=true&theme=onedark" alt="github stats"/>
+<img src="https://github-readme-stats.vercel.app/api/?username=cyber-venom003&show_icons=true&theme=gotham" alt="github stats"/>
 
 
 
-<a href="https://github.com/cyber-venom003/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-venom003&layout=compact" /></a>
+<a href="https://github.com/cyber-venom003/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-venom003&layout=compact&theme=gotham" /></a>
 
 
 <hr/>
